@@ -83,14 +83,57 @@ def setLeds(ledValues):
     leds.write()
 
 while True:
+    ### Variables ###
+    MIN_OCTAVE = 1
+    MAX_OCTAVE = 7
+    octave = 4 # Start at the same octave as middle c
+    # The note hertz values for easier retrievals (also used to retrieve note from key), only using sharps, not flats
+    notesHz = {
+        "c": 262,
+        "c#": 277,
+        "d": 294,
+        "d#": 311,
+        "e": 330,
+        "f": 349,
+        "f#": 370,
+        "g": 392,
+        "g#": 415,
+        "a": 440,
+        "a#": 466,
+        "b": 494
+    }
+
+    keysPressed = [] # Keeps track of which notes are already played to determine last one pressed.
+    lastKeyPressed = -1 # Keeps track of which note should play, as a number for the key, from 0-12. Is -1 when no key is pressed
+
+    # Used to detect which buttons are pressed
+    leftButtonPressed = False
+    selectButtonPressed = False
+    rightButtonPressed = False
+    
+
     ### Read cts input ###
     for key in range(12):
-        if isTouched(key):
-            pass
+        # If this is the first "frame" in which the key has been pressed for, it is the most recently pressed and gets added to keysPressed
+        if isTouched(key) and key not in keysPressed:
+            lastKeyPressed = key
+            keysPressed.append(key)
+        else:
+            # Remove that key from keysPressed (if it is in keysPressed) to show that it isn't pressed anymore
+            for i in range(len(keysPressed)):
+                if keysPressed[i] == key:
+                    del keysPressed[i]
 
 
     ### Read switch input ###
-    pass
+    if leftButton.value() == 0:
+        leftButtonPressed = True
+
+    if leftButton.value() == 0:
+        leftButtonPressed = True
+
+    if leftButton.value() == 0:
+        leftButtonPressed = True
 
 
     ### Read rotary encoder input ###
