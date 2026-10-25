@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 2 | 9.16h | 5 |
+| Week 3 | Tier 2 | 10.06h | 5 |
 
 ## Contents
 
@@ -44,9 +44,11 @@ Work session
 
 ### 2026-10-24 – In this session, I made some test programs for the different components on my Mini Piano to verify if they work well when I get them and started on the main program to run for all of the components. I
 
-**0.1h**
+**1h**
 
-In this session, I made some test programs for the different components on my Mini Piano to verify if they work well when I get them and started on the main program to run for all of the components. I had to use some AI to learn some of how the micro python works, but I tried to have it teach me as much as possible rather than copy pasting. I used Hackatime to track the hours, so I set the time to 0 (as close as I could get it while having it letting me finish it)
+In this session, I made some test programs for the different components on my Mini Piano to verify if they work well when I get them and started on the main program to run for all of the components. I had to use some AI to learn some of how the micro python works, but I tried to have it teach me as much as possible rather than copy pasting. I used Hackatime to track the hours, but I had more time on here because of the code I did on my school computer, where hackatime is blocked.
+
+Making the test programs, mainly on my school computer, took a long time because I had to learn how the micro python code for it worked and then code it all for all 5 of the types of components I was using.
 
 Here are the images of my test programs (There's a lot):
 ![Screenshot from 2026-10-22 22-51-48](https://halflife.hackclub-assets.com/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/d85662ecedeea1e0199c234d99d2c2c37e8e7ab45e345539755fc4a3ac7a8a65.png)
@@ -62,7 +64,7 @@ Here are the images of my test programs (There's a lot):
 This is the starting code I got for the main program (I changed it later):
 ![Screenshot from 2026-10-22 22-53-31](https://halflife.hackclub-assets.com/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/c160b9bbe4603fea8733c0826d2540f85553e0d0d9e942fbbf83991b7b780f11.png)
 
-After I got all of the test codes done, I worked on the main program. I wished that I could run it to verify it worked, but oh well. I made some of the initialization code and started on the code to read the input and output to the speaker and leds.
+After I got all of the test codes done, I worked on the main program. I wished that I could run it to verify it worked, but oh well. I made some of the initialization code from the test programs and then started on the code to read the input and output to the speaker and leds. I just left most of them with the pass keyword because I didn't have time to do them.
 
 ### 2026-10-25 – In this session, I replaced some mismatched components in Easyeda and Digikey and I added to the code by creating variables and some of the inputs.
 
