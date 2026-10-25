@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 2 | 9.26h | 5 |
+| Week 3 | Tier 2 | 9.16h | 5 |
 
 ## Contents
 
@@ -66,7 +66,7 @@ After I got all of the test codes done, I worked on the main program. I wished t
 
 ### 2026-10-25 – In this session, I replaced some mismatched components in Easyeda and Digikey and I added to the code by creating variables and some of the inputs.
 
-**0.68h**
+**0.58h**
 
 In this session, I replaced some mismatched components in Easyeda and Digikey and I added to the code by creating variables and some of the inputs.
 
