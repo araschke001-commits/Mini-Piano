@@ -27,7 +27,7 @@ PCB 3d Model:
 3d Model with Keycaps:
 ![3d Model](<Images\Mini Piano 3d Model.png>)
 
-I also included the keycaps at [Keycaps.step](Keycaps.step).
+I also included the keycaps at [Keycaps.step](Keycaps.step) and in Onshape [here](https://cad.onshape.com/documents/92bb40b0401efe4351ff9080/w/736b99143a63897fee2c3282/e/aefd495508d0e990bfad80b4?renderMode=0&uiState=6adfe701a4ceaaddce6b25c7).
 
 ## Firmware
 I used [Micro Python](Modules/.micropico) for all of my code since I was already using the Raspberry Pi Pico and I already knew how to code in python. I used the [Rotary Module](Modules/rotary.py) with [Rotary IRQ (RP2)](Modules/rotary_irq_rp2.py) to control the rotary encoder better.
