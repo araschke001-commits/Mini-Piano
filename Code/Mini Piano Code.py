@@ -1,5 +1,5 @@
 from machine import Pin, I2C, PWM
-from rotary_irq_rp2 import RotaryIRQ
+from Modules.rotary_irq_rp2 import RotaryIRQ
 from neopixel import NeoPixel
 import time
 
