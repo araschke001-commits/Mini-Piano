@@ -13,19 +13,19 @@ A PCB with switches and a speaker on it to make notes when the switches are pres
 This is my PCB. I made it in EasyEda (pro)
 
 Schematic:
-![Schematic](<Images\Mini Piano Schematic.png>)
+![Schematic](<Images/Mini%20Piano%20Schematic.png>)
 
 PCB:
-![PCB](<Images\Mini Piano PCB.png>)
+![PCB](<Images/Mini%20Piano%20PCB.png>)
 
 ## 3d Model
 I don't have a case for the Mini Piano so it has the PCB looks, so I am just showing the 3d model from EasyEda (pro) and the one I imported into Onshape containing the keycaps I made.
 
 PCB 3d Model:
-![PCB 3d Model](<Images\Mini Piano PCB 3d Model.png>)
+![PCB 3d Model](<Images/Mini%20Piano%20PCB%203d%20Model.png>)
 
 3d Model with Keycaps:
-![3d Model](<Images\Mini Piano 3d Model.png>)
+![3d Model](<Images/Mini%20Piano%203d%20Model.png>)
 
 I also included the keycaps at [Keycaps.step](Keycaps.step) and in Onshape [here](https://cad.onshape.com/documents/92bb40b0401efe4351ff9080/w/736b99143a63897fee2c3282/e/aefd495508d0e990bfad80b4?renderMode=0&uiState=6adfe701a4ceaaddce6b25c7).
 
