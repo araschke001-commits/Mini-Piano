@@ -1,7 +1,7 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 Microcontroller - Raspberry Pi Pico SC1631,1,Digikey,$6.12,$6.12,https://www.digikey.com/en/products/detail/raspberry-pi/SC1631/24627136
 Switch - TE Switch 1825910-6,3,Digikey,$0.13,$0.39,https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1825910-6/1632536
-Rotary Encoder - Alps Alpine EC11E18244AU,1,Digikey,$5.09,$5.09,https://www.digikey.com/en/products/detail/alps-alpine/EC11E18244AU/19529126
+Rotary Encoder - Alps Alpine EC11E18244A5,1,Digikey,$5.38,$5.38,https://www.digikey.com/en/products/detail/alps-alpine/EC11E18244A5/21721665
 Speaker - TDK PS1240P02BT,1,Digikey,$0.73,$0.73,https://www.digikey.com/en/products/detail/tdk/PS1240P02BT/935924
 PCB,1,JLCPCB,$15.56,$15.56,https://cart.jlcpcb.com/shopcart/cart
 LED - IN-PI32TAR5R5G5B,3,Digikey,$0.58,$1.74,https://www.digikey.com/en/products/detail/inolux/IN-PI32TAR5R5G5B/16965075
