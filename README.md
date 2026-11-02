@@ -60,7 +60,7 @@ You can view the full [BOM](BOM.csv), or you can see this one with less details 
 
 This is for the Hack Club reviewer of my Mini Piano to read (And anyone else if they really feel like it (It might help you some)).
 
-- After the deadline, I realized that I would need keycaps for my switches and so I added that as a timelapse, linked [here](https://lapse.hackclub.com/timelapse/uh5iYHYQgOzG).
+- After the deadline, I realized that I would need keycaps for my switches and so I added that as a timelapse, linked [here](https://lapse.hackclub.com/timelapse/uh5iYHYQgOzG). I just wanted you to know, I don't care if you give me credit for it or not.
 
 - About all of the PCB files, I was trying many things to get the submission guidelines to accept my Schematic files from EasyEDA Pro, which doesn't allow you to download the .json files for the project. I eventually found the source files section and was able to copy paste them into a .json file, but there was an error in it, so it may not work well with other programs. I hope the rest of the files will be enough though.
 
